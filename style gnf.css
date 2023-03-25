@@ -39,7 +39,7 @@ text-decoration: none;
 /* Banner */
 
 .banner{
-    background-image: url('../imagens/bg-jelly-fish-para_outras_pags.png');
+    background-image: url("./imagens/bg-jelly-fish-para_outras_pags.png");
     background-size: cover;
 }
 
